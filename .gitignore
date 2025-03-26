@@ -1,0 +1,21 @@
+# Java
+target/
+*.log
+
+# Node
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Mac OS
+.DS_Store
+
+allure-results/
+reports/
+
+selenium-tests/allure-results/
+selenium-tests/reports/
+selenium-tests/.allure/
